@@ -1,18 +1,18 @@
-# mitai2projects
+# MIT AI2 Projects
 
 Will be moved to Sourceforge soon.
 
 ##Description
 
 ### BallBounceFinal.aia 
-Some garbage app with a dragable ball; quite buggy.
+Some garbage app with a draggable ball; quite buggy.
 
 
 ### CalculatorApp.aia 
 Calculator from scratch, gave up on it. Works, though has a bug with longer equations. Figured I should not waste any other time on gibberish.
 
 ### CalculatorL.aia
-Somewhat good calculator app that supports doubles using scietific notation
+Somewhat good calculator app that supports doubles using scientific notation
 
 
 ### CameraShooter.aia
@@ -31,3 +31,4 @@ Very neat, straight to the point. 10/10.
 
 ### rolldice_release.aia 
 The popular dice project challenge, yet with animation (Scroll to the right/left). 
+
