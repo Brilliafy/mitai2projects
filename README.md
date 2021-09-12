@@ -1,3 +1,33 @@
 # mitai2projects
 
-Here are a list of my MIT AI2 projefcts
+Will be moved to Sourceforge soon.
+
+##Description
+
+### BallBounceFinal.aia 
+Some garbage app with a dragable ball; quite buggy.
+
+
+### CalculatorApp.aia 
+Calculator from scratch, gave up on it. Works, though has a bug with longer equations. Figured I should not waste any other time on gibberish.
+
+### CalculatorL.aia
+Somewhat good calculator app that supports doubles using scietific notation
+
+
+### CameraShooter.aia
+Wholesome project for childhood. Overlay images are clipped hard on the edges, unrealistic feel. 3,5/10. 
+
+
+### dontshakemerelease.aia
+Great fun, text may go out of canvas whenever content is too long. Slide from the right corner to the left to access all available languages.
+
+### multipleActivityChallenge.aia
+This is the Keyboard Listener extension project template; nothing more to add.
+
+
+### multipleActivityExample.aia
+Very neat, straight to the point. 10/10.
+
+### rolldice_release.aia 
+The popular dice project challenge, yet with animation (Scroll to the right/left). 
