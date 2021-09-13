@@ -19,6 +19,9 @@ Somewhat good calculator app that supports doubles using scientific notation
 Wholesome project for childhood. Overlay images are clipped hard on the edges, unrealistic feel. 3,5/10. 
 
 
+### asyncmediametadataextraction.aia
+A brief example of using the MediadataExtractor extension on media using an asynchronous model. Quite intriguing to say the least...
+
 ### dontshakemerelease.aia
 Great fun, text may go out of canvas whenever content is too long. Slide from the right corner to the left to access all available languages.
 
